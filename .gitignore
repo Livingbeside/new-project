@@ -1,24 +1,12 @@
 # Python
 __pycache__/
-*.py[cod]
-*$py.class
 venv/
 .venv/
 .env
-.env.local
-*.egg-info/
-dist/
-build/
 
 # IDE
 .idea/
 .vscode/
-*.swp
-*.swo
-
-# GitHub CLI binary (локальная копия)
-gh
 
 # OS
 .DS_Store
-Thumbs.db
