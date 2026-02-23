@@ -16,6 +16,9 @@ build/
 *.swp
 *.swo
 
+# GitHub CLI binary (локальная копия)
+gh
+
 # OS
 .DS_Store
 Thumbs.db
